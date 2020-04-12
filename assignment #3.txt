@@ -4,3 +4,10 @@ assignment #3
  Name : Yu Jigun
  Major : Industrial Management Engneering
  Birth : 10, 26, 1998
+2. Team Information
+ Team Member
+  산업경영공학과 유지건
+  산업경영공학과 노지영
+  산업경영공학과 고유미
+  소프트웨어학과 이혜선
+  소프트웨어학과 윤진난
